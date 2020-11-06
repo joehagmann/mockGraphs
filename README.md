@@ -1,4 +1,6 @@
-[![hackmd-github-sync-badge](https://hackmd.io/pYZUtHijSReXyjdEVDQyWQ/badge)](https://hackmd.io/pYZUtHijSReXyjdEVDQyWQ)
+<a href=https://hackmd.io/pYZUtHijSReXyjdEVDQyWQ><img src=https://hackmd.io/pYZUtHijSReXyjdEVDQyWQ/badge></a>
+
+Please feel free to comment and collaborate using the link above. With signing in with your :octocat: github account, you can comment and edit.
 
 # Background
 
@@ -14,6 +16,3 @@ Let's see how this graph is really represented using latest graph generation sof
 - `vg msga`
 - `minimap2/seqwish/smoothxg`
 - (due to the small sequence lengths, `edyeet` cannot be used, so the single `pggb` steps are manually called and `minimap2` is used as mapping tool instead)
-
-
-

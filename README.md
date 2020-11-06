@@ -1,4 +1,4 @@
-Comment and collaborate [here on HackMD](https://hackmd.io/pYZUtHijSReXyjdEVDQyWQ)
+[![hackmd-github-sync-badge](https://hackmd.io/pYZUtHijSReXyjdEVDQyWQ/badge)](https://hackmd.io/pYZUtHijSReXyjdEVDQyWQ)
 
 # Background
 

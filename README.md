@@ -1,4 +1,4 @@
-Comment and collaborate here on ![HackMD](https://hackmd.io/pYZUtHijSReXyjdEVDQyWQ)
+Comment and collaborate [here on HackMD](https://hackmd.io/pYZUtHijSReXyjdEVDQyWQ)
 
 # Background
 

@@ -1,7 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/pYZUtHijSReXyjdEVDQyWQ/badge)](https://hackmd.io/pYZUtHijSReXyjdEVDQyWQ)
+
 # Background
-:::info
+
 I seek out to understand the parameters for generating genome graphs to find their best  visualization by using a simple mockup MSA between three sequences.
-:::
 
 Here are the sequences in an MSA:
 ![](https://i.imgur.com/D7Upylm.png)
@@ -12,7 +13,7 @@ This might be the corresponding "most parsimonious" graph and as such the most b
 Let's see how this graph is really represented using latest graph generation software: 
 - `vg msga`
 - `minimap2/seqwish/smoothxg`
-- (due to the small sequence lengths, `edyeet` cannot be used, so the single `pggb` steps are manually called and minimap2 is used instead)
+- (due to the small sequence lengths, `edyeet` cannot be used, so the single `pggb` steps are manually called and `minimap2` is used as mapping tool instead)
 
 
 

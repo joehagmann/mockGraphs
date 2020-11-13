@@ -38,15 +38,15 @@ Let's see how the latest graph generation software will build a graph from these
 The seqwish graph in the bottom panel below looks basically like the expected one:
 
 ![](https://i.imgur.com/G0BA7kR.png)
-![](https://i.imgur.com/RMJxzYp.png =600x)
+![](https://i.imgur.com/RMJxzYp.png)
 
 The smoothed graph (`-w20 -c10 -M`) gets rid of the single bp nodes (in the middle), and unrolls both the red and blue duplications:<br>
 ![](https://i.imgur.com/NAn08iW.png)
-![](https://i.imgur.com/oZOa3xE.png =400x)
+![](https://i.imgur.com/oZOa3xE.png)
 
 smooth with `-w20 -c1000 -M` (default minimum repeat length to collapse=1000, nothing should be collapsed) is equal to `-w20 -c10`: The repeat is again unrolled, and the substituted sequences are aligned on top of each other. The duplication occurs actually three times in the graph, since path 1 takes a completely other route than 2&3 because of the shared blue seqs:<br>
 ![](https://i.imgur.com/NAn08iW.png)
-![](https://i.imgur.com/NwZaRNl.png =500x)
+![](https://i.imgur.com/NwZaRNl.png)
 
 
 
@@ -76,7 +76,7 @@ smooth with `-w20 -c1000 -M` (default minimum repeat length to collapse=1000, no
 
 Not sure I understand `odgi layout` correctly, but default options with `-C` yields:
 
-![](https://i.imgur.com/PmKXUWy.png =150x)
+<img src=https://i.imgur.com/PmKXUWy.png width=200/>
 
 
 <!---
@@ -121,17 +121,17 @@ and the produced MSA below with the black background:
 | 10   |          | `-k30 -r10` |      | `-w20 -c10`   |
 
 ![](https://i.imgur.com/NAn08iW.png)
-df![](https://i.imgur.com/AEp2fYD.png =710x)
-1 ![](https://i.imgur.com/Syzdi27.png =710x)
-2 ![](https://i.imgur.com/GudTV9s.png =710x)
-3 ![](https://i.imgur.com/hGG8hsk.png =710x)
-4 ![](https://i.imgur.com/DmbO1ka.png =710x)
-5 ![](https://i.imgur.com/exjVALY.png =710x)
-6 ![](https://i.imgur.com/DmGvHYD.png =710x)
-7 ![](https://i.imgur.com/RUw2WEb.png =710x)
-8 ![](https://i.imgur.com/RkIhfIG.png =710x)
-9 ![](https://i.imgur.com/MLh9tJh.png =710x)
-10![](https://i.imgur.com/akTHqSg.png =710x)
+df![](https://i.imgur.com/AEp2fYD.png)
+1 ![](https://i.imgur.com/Syzdi27.png)
+2 ![](https://i.imgur.com/GudTV9s.png)
+3 ![](https://i.imgur.com/hGG8hsk.png)
+4 ![](https://i.imgur.com/DmbO1ka.png)
+5 ![](https://i.imgur.com/exjVALY.png)
+6 ![](https://i.imgur.com/DmGvHYD.png)
+7 ![](https://i.imgur.com/RUw2WEb.png)
+8 ![](https://i.imgur.com/RkIhfIG.png)
+9 ![](https://i.imgur.com/MLh9tJh.png)
+10![](https://i.imgur.com/akTHqSg.png)
 ![](https://i.imgur.com/NAn08iW.png)
 
 
